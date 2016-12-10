@@ -1,0 +1,99 @@
+Air Force > Syracuse
+Alabama > Michigan State
+Alabama > Yale
+Arizona > Georgia
+Arizona > Virginia Tech
+Arizona State > Syracuse
+Arkansas > Michigan
+Army > Princeton
+Auburn > Georgia
+Auburn > Southern California
+BYU > Oregon
+Baylor > Tulane
+Boise State > Maryland
+Boise State > Mississippi
+Boise State > Vanderbilt
+Boston College > Oregon
+Boston College > SMU
+Boston College > USF
+Bowling Green > Kentucky
+Bowling Green > Penn
+California > UCLA
+California > Villanova
+California > West Virginia
+Cincinnati > Mississippi State
+Cincinnati > Princeton
+Clemson > Penn State
+Clemson > Tulsa
+Colorado > Oregon State
+Colorado State > Nebraska
+Colorado State > Tennessee
+Columbia > Iowa Pre-Flight
+Columbia > Minnesota
+Columbia > Missouri
+Cornell > Missouri
+Dartmouth > East Carolina
+Duke > Missouri
+Duquesne > North Carolina
+Duquesne > Rutgers
+East Carolina > Georgia Tech
+Florida > LSU
+Fordham > Princeton
+Fresno State > LSU
+Fresno State > Penn State
+Fresno State > Texas Tech
+Georgia Tech > Syracuse
+Hawaii > Oregon
+Hawaii > South Carolina
+Holy Cross > Michigan
+Houston > Wisconsin
+Illinois > Tennessee
+Illinois > Texas
+Indiana > Louisville
+Iowa > Iowa State
+Iowa State > Yale
+Kansas > Oklahoma
+Kansas > William & Mary
+Kansas State > Louisville
+Kentucky > Stanford
+Kentucky > Washington State
+Louisville > Nevada
+Marshall > Oregon
+Marshall > Wyoming
+Maryland > Mississippi State
+Miami > Villanova
+Miami (Ohio) University > Mississippi State
+Michigan > Syracuse
+Michigan State > TCU
+Michigan State > USF
+Mississippi State > Southern California
+Missouri > Navy
+Missouri > Washington State
+N.C. State > Navy
+N.C. State > Villanova
+Nebraska > Oklahoma
+Nevada > Northern Illinois
+Nevada > Oregon State
+Nevada > Stanford
+North Carolina > Texas A&M
+Northwestern > Southern Mississippi
+Notre Dame > Toledo
+Ohio State > Rutgers
+Ohio State > Southern Mississippi
+Oklahoma State > Washington State
+Oklahoma State > Wyoming
+Oregon > Tulsa
+Oregon State > Syracuse
+Penn > Pittsburgh
+Pittsburgh > Tulane
+Purdue > Tennessee
+Rice > Villanova
+Rutgers > USF
+South Carolina > Toledo
+Southern California > Tulsa
+Southern Mississippi > Virginia
+Stanford > Tennessee
+Texas > Utah
+Texas A&M > Wake Forest
+Tulsa > Wisconsin
+Washington > West Virginia

@@ -1,100 +1,100 @@
-Yale
-Alabama
-Penn
-Rice
-Bowling Green
-Duke
-Army
-Stanford
-Princeton
-Hawaii
-SMU
-Louisville
+East Carolina
+Syracuse
+Fresno State
+Wyoming
+Baylor
 Kentucky
-Iowa Pre-Flight
-Virginia Tech
+Mississippi
+LSU
 Boston College
-South Carolina
-Arkansas
+Columbia
+Minnesota
+Purdue
+Cornell
+Army
+Mississippi State
+Colorado
+Bowling Green
+Northern Illinois
+Boise State
+Maryland
+Air Force
+Houston
+Pittsburgh
+West Virginia
+Notre Dame
+Toledo
+Florida
+Michigan State
+Virginia Tech
+Alabama
+Southern California
 Kansas
-Wisconsin
-Georgia Tech
-Arizona
-California
+Virginia
+Rice
 Oklahoma
 Miami
-Colorado
-Utah
-Tennessee
-Southern Mississippi
-Mississippi State
-Vanderbilt
-Navy
-Cornell
-Washington
-Toledo
-BYU
-Fresno State
-William & Mary
-Baylor
-Iowa State
-Pittsburgh
-Marshall
-Rutgers
-Maryland
-Mississippi
-Texas Tech
-Notre Dame
-Columbia
-Dartmouth
-Northwestern
-Tulsa
-Miami (Ohio) University
-Missouri
-Wyoming
-Oklahoma State
-Air Force
-Minnesota
-Boise State
-Syracuse
-Oregon State
-East Carolina
-Penn State
-Ohio State
-Texas A&M
-Kansas State
-Tulane
-Holy Cross
-Duquesne
-Washington State
-Texas
-Clemson
-LSU
-Iowa
-N.C. State
-Indiana
-Nebraska
-Colorado State
-USF
-Michigan
-Michigan State
-Villanova
 Illinois
-TCU
-Auburn
-Virginia
-West Virginia
+BYU
+Nevada
+Tennessee
+Iowa State
+Texas
+Duke
 Fordham
-Houston
-Florida
+William & Mary
+California
+Iowa
+Yale
+Texas Tech
+Missouri
+Oklahoma State
+USF
+Texas A&M
+Arizona
+Princeton
+Penn State
+Wisconsin
+Navy
+South Carolina
+Iowa Pre-Flight
+Utah
+Michigan
+Vanderbilt
+Duquesne
+Louisville
+Colorado State
+Indiana
+N.C. State
+North Carolina
+Tulsa
+Marshall
+Dartmouth
+Holy Cross
+Washington
+Tulane
+Auburn
+Washington State
 Georgia
 UCLA
-Arizona State
-Southern California
-Wake Forest
-North Carolina
-Oregon
 Cincinnati
-Nevada
-Northern Illinois
-Purdue
+Southern Mississippi
+Nebraska
+Georgia Tech
+Penn
+TCU
+Oregon
+SMU
+Stanford
+Ohio State
+Arkansas
+Kansas State
+Arizona State
+Northwestern
+Rutgers
+Hawaii
+Miami (Ohio) University
+Clemson
+Wake Forest
+Villanova
+Oregon State
