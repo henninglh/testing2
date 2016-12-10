@@ -4,7 +4,7 @@ from random import shuffle
 
 teams = []
 
-with open('teams.txt', 'r') as f, open('random_teams.txt', 'w') as r:
+with open('teams.txt', 'r') as f, open('rankings.txt', 'w') as r:
      teams = [i.strip() for i in f.readlines()]
      shuffle(teams)
      shuffle(teams)
